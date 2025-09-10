@@ -6,7 +6,7 @@ In case there are any discrepancies between the Japanese and English references,
 ## Specifications
 
 ### Server  
-Will be available on the feature release date.
+https://search-ads-cv.yahooapis.jp
 
 ### Request Limit  
 50 requests / sec  
@@ -69,7 +69,7 @@ $ curl -i \
     "ip": "192.168.0.1",
     "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 }' \
-https://example.com
+https://search-ads-cv.yahooapis.jp/v1/
 ```
 
 #### Response

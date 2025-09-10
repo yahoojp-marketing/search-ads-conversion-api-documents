@@ -3,7 +3,7 @@ Yahoo!広告 検索広告 コンバージョン計測API
 
 ## 仕様
 ### サーバ
-機能リリース日に公開予定
+https://search-ads-cv.yahooapis.jp
 
 ### リクエスト制限
 50 requests / sec<br>
@@ -61,7 +61,7 @@ $ curl -i \
     "ip": "192.168.0.1",
     "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 }' \
-https://example.com
+https://search-ads-cv.yahooapis.jp/v1/
 ```
 
 #### レスポンス
